@@ -1,0 +1,32 @@
+{
+  "name": "msndevopsbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "mastahnke@gmail.com",
+  "description": "The Bot",
+  "dependencies": {
+    "hubot": "^3.1.1",
+    "hubot-bofh": "^1.0.0",
+    "hubot-coin": "0.0.2",
+    "hubot-decide": "^1.0.1",
+    "hubot-diagnostics": "^1.0.0",
+    "hubot-github-status": "^0.2.1",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^1.0.1",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-isup": "^1.0.2",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "^1.0.0",
+    "hubot-reload-scripts": "^0.1.4",
+    "hubot-rules": "^1.0.0",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-slack": "^4.5.4",
+    "hubot-xkcd": "0.0.5"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

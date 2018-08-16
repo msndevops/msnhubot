@@ -1,0 +1,6 @@
+# This file should not use interpolated variables, as it gets munged into a
+# systemd configuration file which cannot use variables for previous values
+# because it isn't quite posix shell. Please keep these directives as
+# key=value.
+
+export HUBOT_LOG_LEVEL=INFO

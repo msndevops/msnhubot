@@ -1,0 +1,17 @@
+[
+  "hubot-bofh",
+  "hubot-coin",
+  "hubot-decide",
+  "hubot-diagnostics",
+  "hubot-github-status",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-help",
+  "hubot-isup",
+  "hubot-maps",
+  "hubot-pugme",
+  "hubot-reload-scripts",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-xkcd"
+]
