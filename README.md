@@ -20,6 +20,9 @@ deployed on [Heroku][heroku] to get you up and running as quick as possible.
 
 There may be some weird permissions issues here that I still need to work out.
 
+### Other stuff
+
+  *  You'll need our slack token in a `secrets` file.
 
 ### Brain
 
